@@ -1,4 +1,4 @@
-### Hi there, I'm a studying Computer Science at the University of Mons ! 👋
+### Hi there, I'm studying Computer Science at the University of Mons! 👋
 
 <!--
 **Yeetman88/Yeetman88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
